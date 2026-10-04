@@ -1,0 +1,6 @@
+{
+  "name": "NovaLearn - Futuristic AI Study Companion",
+  "description": "Next-generation AI study companion with neural tutoring, adaptive study planning, instant quiz synthesis, and real-time mastery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
